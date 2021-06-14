@@ -77,6 +77,11 @@ a:hover { border-bottom: none; }
   color: var(--dark-orange);
 }
 
+.laser .pull-right{
+  float: right;
+  width: 40%;
+}
+
 /* Removes colored bar from top of the slide resulting in a clear slide */
 .clear{
   border-top: 0px solid var(--white);
